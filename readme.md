@@ -1,4 +1,4 @@
-# audrey-copyright-&&
+# audrey-copyright
 
 > Seed for audrey-two VCCLI (View-Control-Command-Line-Interface) ^v2.0.0
 
@@ -18,7 +18,7 @@ This node-module redefine the older audrey-two taggy "&". Now you can use it aga
 Example
 ```
 $ npm install --save audrey-two
-  npm install --save audrey-copyright-&&
+  npm install --save audrey-copyright
 ```
 ## Usage
 

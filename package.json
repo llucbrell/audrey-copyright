@@ -1,0 +1,32 @@
+{
+  "name": "audrey-copyright",
+  "version": "1.0.0",
+  "description": "audrey-two-seed for copyright",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llucbrell/audrey-copyright.git"
+  },
+  "keywords": [
+    "audrey",
+    "audrey-two",
+    "view",
+    "control",
+    "controller",
+    "CLI",
+    "command",
+    "line",
+    "interface",
+    "copyright",
+    "print"
+  ],
+  "author": "Lucas_C/llucbrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llucbrell/audrey-copyright/issues"
+  },
+  "homepage": "https://github.com/llucbrell/audrey-copyright#readme"
+}

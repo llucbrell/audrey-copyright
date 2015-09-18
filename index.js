@@ -13,7 +13,7 @@ return{
         terminal= customObject;
         printCopyright(simName);},
 harvestData: function(){ return data;}
-}
+};
 
 function checkColors(name){
   var colors=Object.getOwnPropertyNames(terminal.colors);
@@ -58,4 +58,4 @@ var name= simName.slice(2); //delete simbol of the name
 
 
 
-}
+};
