@@ -37,5 +37,5 @@ var audrey= audrey2(myTerminalDisplay);
 //run your command and pass error objects to audrey
 
 audrey.seed(["audrey-copyright-&&"]);//pass audrey the name of a new seed
- audrey.talk();//run audrey to display view
+ audrey.encore();//run audrey to display view
 ```
