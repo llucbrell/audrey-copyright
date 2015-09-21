@@ -4,7 +4,7 @@
   "description": "audrey-two-seed for copyright",
   "main": "index.js",
   "scripts": {
-    "test": "grunt --verbose"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
