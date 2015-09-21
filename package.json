@@ -1,6 +1,6 @@
 {
   "name": "audrey-copyright",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "audrey-two-seed for copyright",
   "main": "index.js",
   "scripts": {

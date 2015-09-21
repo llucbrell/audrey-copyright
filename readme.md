@@ -1,6 +1,6 @@
 # audrey-copyright
 
-> Seed for audrey-two VCCLI (View-Control-Command-Line-Interface) ^v2.0.0
+> Seed for [audrey-two](https://www.npmjs.com/package/audrey-two) VCCLI (View-Control-Command-Line-Interface) ^v2.0.0
 
 
 ## What this seed does?
